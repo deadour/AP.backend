@@ -17,7 +17,6 @@ D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Controller\Person
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Security\Controller\Mensaje.java
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Security\Entity\Usuario.java
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Security\Dto\JwtDto.java
-D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Interface\IPersonaService.java
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Repository\REducacion.java
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Security\MainSecurity.java
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Controller\CEducacion.java
@@ -25,6 +24,7 @@ D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Security\jwt\JwtT
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Security\Service\UserDetailsImpl.java
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Security\Service\RolService.java
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Dto\dtoHys.java
+D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Dto\dtoPersona.java
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Service\ImpPersonaService.java
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Repository\IPersonaRepository.java
 D:\Documents\GitHub\backendemr\src\main\java\com\portfolio\emr\Service\SExperiencia.java

@@ -8,9 +8,9 @@ com\portfolio\emr\Service\Shys.class
 com\portfolio\emr\Security\Controller\CHys.class
 com\portfolio\emr\Security\Service\UsuarioService.class
 com\portfolio\emr\Controller\PersonaController.class
+com\portfolio\emr\Dto\dtoPersona.class
 com\portfolio\emr\Entity\Educacion.class
 com\portfolio\emr\Repository\IPersonaRepository.class
-com\portfolio\emr\Interface\IPersonaService.class
 com\portfolio\emr\Controller\CEducacion.class
 com\portfolio\emr\Entity\hys.class
 com\portfolio\emr\Security\Controller\Mensaje.class
